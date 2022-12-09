@@ -9,3 +9,6 @@
 4-puts.c: program that prints a line of code using puts
 
 5-printf.c: program that prints a line of code using printf
+
+6-size.c: program that prints the size of various types on the computer it is compiled and run on
+
