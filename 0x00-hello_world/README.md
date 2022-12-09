@@ -7,3 +7,5 @@
 3-name: script that compiles a C file and creates an executable named cisfun
 
 4-puts.c: program that prints a line of code using puts
+
+5-printf.c: program that prints a line of code using printf
