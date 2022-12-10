@@ -3,3 +3,5 @@
 1-last_digit.c: prints the last digit of a number
 
 2-print_alphabet.c: prints alphabet letters in lower case
+
+3-print_alphabet.c: prints upper and loweralphabetical letters
