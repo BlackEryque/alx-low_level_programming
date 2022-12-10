@@ -12,5 +12,7 @@ int main(void)
 	char ch;
 
 	for (ch = 'a'; x <= 'z'; x++)
-	putchar(ch"\n");
+		putchar(ch);
 
+	return (0);
+}
