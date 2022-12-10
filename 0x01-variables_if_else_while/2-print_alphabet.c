@@ -9,7 +9,6 @@
 
 int main(void)
 {	
-	int x = "A"
-	for (; x < "Z", x++)
+	for (int x = 'A', x < "Z", x++)
 		putchar(tolower(x))
 }			
