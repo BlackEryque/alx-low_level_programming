@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - a program that prints single digits of base 10 starting from 0 
+ * main - a program that prints single digits of base 10 starting from 0
  *
  * Return: 0
  *
@@ -16,7 +16,6 @@ int main(void)
 		putchar (x);
 	x++;
 	}
-	
+	putchar ('\n');
 	return (0);
 }
-
