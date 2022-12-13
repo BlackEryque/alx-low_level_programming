@@ -8,7 +8,7 @@
  *
  */
 
-in main(void)
+int main(void)
 {
 	int x, y, z;
 
