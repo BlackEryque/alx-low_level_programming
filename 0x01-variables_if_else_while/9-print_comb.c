@@ -16,7 +16,8 @@ int main(void)
 		putchar ((x % 10) + '0');
 		putchar (',');
 		putchar (' ');
+		
+		x++;
 	}
-	x++;
 	return (0);
 }
