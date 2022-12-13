@@ -13,9 +13,9 @@ int main(void)
 
 	while (x <= '9')
 	{
-		putchar ((x % 10) + '0'i)
-			if (x == 9)
-				continue;
+		putchar ((x % 10) + '0');
+		if (x == 9)
+			continue;
 		putchar (',');
 		putchar (' ');
 		x++;
