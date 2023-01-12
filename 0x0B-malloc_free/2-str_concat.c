@@ -26,9 +26,9 @@ char *str_concat(char *s1, char *s2)
 	while (s2[s2c] != '\0')
 		s2c++;
 
-	s3c = s1c + s2c + 1;
+	s3c = s1c + s2c;
 
-	conc = (char *)malloc(sizeof(char) * s3c);
+	conc = (char *)malloc(sizeof(char) * (s3c + 1);
 	if (conc == NULL)
 		return (NULL);
 
