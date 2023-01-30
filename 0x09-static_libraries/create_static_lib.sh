@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 #Convert c files into object files
 gcc -c *.c
