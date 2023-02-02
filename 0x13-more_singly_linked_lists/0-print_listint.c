@@ -15,8 +15,6 @@ size_t print_listint(const listint_t *h)
 	const listint_t *path;
 
 	count = 0;
-	if (h == NULL)
-		printf("The list is empty");
 	path = NULL;
 	path = h;
 	while (path != NULL)
